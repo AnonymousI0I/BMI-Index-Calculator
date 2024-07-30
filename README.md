@@ -17,8 +17,8 @@ This Python script calculates the Body Mass Index (BMI) based on a user's weight
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/bmi-calculator.git
-    cd bmi-calculator
+    git clone https://github.com/AnonymousI0I/BMI-Index-Calculator.git
+    cd BMI-Index-Calculator
     ```
 
 ## Usage
@@ -26,7 +26,7 @@ This Python script calculates the Body Mass Index (BMI) based on a user's weight
 1. **Run the script**:
 
     ```bash
-    python bmi_calculator.py
+    python BMI Calculate Program.py
     ```
 
 2. **Follow the on-screen prompts to input your height and weight**.
